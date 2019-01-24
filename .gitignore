@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+kartik/.DS_Store
+kartik/dropdata.csv
+kartik/sample_submission.csv
+kartik/test.csv
+kartik/train.csv
